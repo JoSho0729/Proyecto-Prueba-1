@@ -7,5 +7,3 @@ Parrafo
 tercer parrafo
 
 Cuarto parrafo
-
-Parrafo creado desde otra rama 
